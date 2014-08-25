@@ -1,0 +1,1 @@
+Folder for Ruby katas, week 5.
